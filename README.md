@@ -6,4 +6,4 @@ Given the position and the characteristics of some investors in a meeting every 
 
 Here is the preprocessing part which establish a label matrix of zeros and ones when two investors spoke to each other during the meeting (looking if they were close enough for more than 5 minutes)
 
-The model should arrive in a month.
+The proposed model is a uncommon "supervised" kmeans and it should arrive in a month.
